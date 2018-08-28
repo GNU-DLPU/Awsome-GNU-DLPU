@@ -20,4 +20,4 @@
 | **docker_practice** | 开源电子书《Docker —— 从入门到实践》                         | `Docker`          | [github链接](https://github.com/yeasy/docker_practice)    | deimo  |
 | **nodelover-books** | 一位很列害的全栈大佬的开源电子书籍，强烈推荐的他的[个人站点](https://nodelover.me/) | `Node`         `全栈` | [github链接](https://github.com/MiYogurt/nodelover-books) | deimo  |
 | **webdriver_guide** | 开源电子书《selenium webdriver 从入门到提高》                | `selenium` `爬虫`  `自动化测试` | [github链接](https://github.com/easonhan007/webdriver_guide#webdriver%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97python%E7%89%88%E6%9C%AC) | deimo  |
-| **Android-Resources** | Android当前最流行的的开源Api                               | `工具` `Android`  | [github链接](https://github.com/AlanCheen/Android-Resources)   | yif  |
+| **Android-Resources** | Android优秀文章和当前流行的的开源Api                      | `工具` `Android`  | [github链接](https://github.com/AlanCheen/Android-Resources)   | yif  |
