@@ -23,4 +23,5 @@
 | **Android-Resources** | Android优秀文章和当前流行的的开源Api                      | `工具` `Android`  | [github链接](https://github.com/AlanCheen/Android-Resources)   | yif  |
 | **wechatpy**        | 微信(WeChat) 公众平台第三方 Python SDK                       | `python` `wechat sdk`| [github地址](https://github.com/jxtech/wechatpy) | deimo  |
 | **gRPC**中文文档    | gRPC框架的中文文档                       | `rpc` `后端`| [文档地址](http://doc.oschina.net/grpc?t=58008) | deimo  |
+| **Java**学习文档（面试向）    | 包含算法、计算机基础、设计模式、Java、数据库、网络……         | `面试` `java``基础`| [github地址](https://github.com/CyC2018/CS-Notes) | yif  |
 
