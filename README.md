@@ -25,4 +25,6 @@
 | **gRPC**中文文档    | gRPC框架的中文文档                       | `rpc` `后端`| [文档地址](http://doc.oschina.net/grpc?t=58008) | deimo  |
 | **Java**学习文档（面试向）    | 包含算法、计算机基础、设计模式、Java、数据库、网络……         | `面试` `java` `基础`| [github地址](https://github.com/CyC2018/CS-Notes) | yif  |
 | **看云**文档    | 有很多优秀免（付）费的文档，包含各个方面 | `文档` `资源`| [资源主页](https://www.kancloud.cn/explore) | deimo  |
+| **机器学习100天**    | 跟随大佬进行100天的机器学习 | `机器学习` | [github地址](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | deimo  |
+| **深度学习500问** | 以问答形式对常用知识进行阐述 | `深度学习` | [github地址](https://github.com/scutan90/DeepLearning-500-questions) | deimo  |
 
