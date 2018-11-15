@@ -27,4 +27,5 @@
 | **看云**文档    | 有很多优秀免（付）费的文档，包含各个方面 | `文档` `资源`| [资源主页](https://www.kancloud.cn/explore) | deimo  |
 | **机器学习100天**    | 跟随大佬进行100天的机器学习 | `机器学习` | [github地址](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | deimo  |
 | **深度学习500问** | 以问答形式对常用知识进行阐述 | `深度学习` | [github地址](https://github.com/scutan90/DeepLearning-500-questions) | deimo  |
+| **python-web入坑指南** | 一部很详尽的Python Web入门指引 | `Python` `Web` | [文档地址](https://python-web-guide.readthedocs.io/zh/latest/) | deimo  |
 
