@@ -31,4 +31,13 @@
 | **机器学习100天**    | 跟随大佬进行100天的机器学习 | `机器学习` | [github地址](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | deimo  |
 | **深度学习500问** | 以问答形式对常用知识进行阐述 | `深度学习` | [github地址](https://github.com/scutan90/DeepLearning-500-questions) | deimo  |
 | **python-web入坑指南** | 一部很详尽的Python Web入门指引 | `Python` `Web` | [文档地址](https://python-web-guide.readthedocs.io/zh/latest/) | deimo  |
+| **HTML5+ API Reference** | HTML5+官方api文档 | `Web` `html5+` | [文档地址](http://www.html5plus.org/doc/h5p.html) | xt  |
+| **easyswoole中文文档** | easyswoole中文文档 | `php` `swoole` `easyswoole` | [文档地址](http://www.easyswoole.com/) | xt  |
+| **element中文文档** | 饿了么团队开发的基于vue-cli的组件库 | `web` `vue-cli` `element` | [文档地址](https://element.eleme.cn/#/zh-CN/component/installation) | xt  |
+| **vue-element-admin** | 基于vue-cli和element开发的组件库 | `web` `vue-cli` `element` | [文档地址](https://panjiachen.github.io/vue-element-admin-site/zh/) | xt  |
+| **阿里云composer全量镜像** | 阿里云开放的与Packagist同步的composer全量镜像 | `阿里云` `composer` `php` | [仓库地址](https://developer.aliyun.com/composer) | xt  |
+| **Ant Design Vue** | ant-design基于Vue的组件库 | `web` `ant-design` `vue` | [文档地址](https://vue.ant.design/docs/vue/introduce-cn/) | xt  |
+| **Vant** | 有赞开发的基于vue-cli的组件库 | `web` `vant` `vue` | [文档地址](https://youzan.github.io/vant/#/zh-CN/quickstart) | xt  |
+| **cube-ui** | 滴滴开发的基于vue-cli的组件库 | `web` `cube-ui` `vue` | [文档地址](https://didi.github.io/cube-ui/#/zh-CN/docs/introduction) | xt  |
+| **Electron** | github开发的基于js的跨平台开发工具，注重于桌面端开发 | `client` `electron` `js` | [文档地址](https://electronjs.org/docs/tutorial/about) | xt  |
 
