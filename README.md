@@ -9,6 +9,9 @@
 | 项目名                  | 项目描述                          | keywords            | 项目地址                                     | 添加人 |
 | ----------------------- | --------------------------------- | ------------------- | -------------------------------------------- | ------ |
 | **api-manager-improve** | 一个由Django实现的简单API管理工具 | `工具`    `api管理` | [github链接](https://github.com/deimo/api-manager-improve) | deimo  |
+| **xtGithubWeebhookCi** | php+github自动部署 | `工具`    `github部署` | [github链接](https://github.com/xtzero/xtGithubWeebhookCi.php) | xt  |
+| **xtPHP** | 一个不太好用的php mvc框架 | `框架`    `php` | [github链接](https://github.com/xtzero/xtPHP/tree/1) | xt  |
+| **xtCBook** | 在学校写的C语言入门文档 | `文档`    `C` | [github链接](http://c.xtzero.me/) | xt  |
 
 
 
